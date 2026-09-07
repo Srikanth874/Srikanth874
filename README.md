@@ -1,11 +1,155 @@
-# 💫 About Me:
-🚀A passionate and driven Computer Science Engineering student with a strong interest in technology, innovation, and real-world problem solving. I enjoy building skills that help me grow both personally and professionally while staying curious about new trends in the tech world.<br><br>I'm someone who believes in continuous learning, teamwork, and taking initiative. Whether it's leading tasks, communicating ideas clearly, or tackling challenges, I always aim to give my best.<br><br>😊I'm actively looking for opportunities to gain hands-on experience, contribute to meaningful projects, and evolve into a skilled tech professional.<br><br>🌿Always learning. Always improving. Always moving forward
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_srikanth_official2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreekanth-rathod-06367930b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srikanthrathod109@gmail.com) 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=Srikanth874&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ============================================================
+     GitHub Profile README — replace YOUR-USERNAME / YOUR-* below
+     ============================================================ -->
+
+<div align="center">
+
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Srikanth%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+apps+with+Next.js;Passionate+about+UI%2FUX+%26+glassmorphism+design;Exploring+AI-powered+applications;Always+learning.+Always+improving.&font=Fira%20Code&center=true&width=600&height=45&color=06B6D4&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering student, passionate about technology, innovation, and real-world problem solving
+- 💻 Focused on **full-stack web development**, especially **frontend engineering and UI/UX design**
+- 🧠 Currently building **[EduForge AI](#)** — a Next.js app that turns notes and past papers into exam-ready study content
+- 🌱 Big believer in continuous learning, teamwork, and taking initiative
+- ✨ I love bringing interfaces to life with **glassmorphism, 3D depth, and micro-interactions**
+- 📌 Actively looking for opportunities to gain hands-on experience and grow into a skilled tech professional
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://YOUR-PORTFOLIO-URL.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css" />
+
+<br/><br/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+
+<br/><br/>
+
+**Backend, Database & Cloud**
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,vercel" />
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</div>
+
+> To enable the snake animation, add the `platane/snk` GitHub Action to a repo named after your username (see setup note at the bottom).
+
+<br/>
+
+## ✍️ Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer"/>
+
+**Thanks for stopping by — let's build something great together! 🚀**
+
+</div>
+
+<!--
+============================================================
+ SETUP NOTES (delete this comment block once you're done)
+============================================================
+1. Replace every "YOUR-USERNAME", "YOUR-LINKEDIN", "YOUR-TWITTER",
+   "YOUR-EMAIL@example.com", and "YOUR-PORTFOLIO-URL" above.
+2. Rename this file to README.md and place it in a repo with the
+   SAME NAME as your GitHub username (create one if it doesn't exist)
+   — GitHub renders that repo's README on your profile page.
+3. For the contribution snake animation:
+   a. In that repo, go to Settings → Secrets and variables → Actions
+   b. Add the platane/snk action via a workflow file (search
+      "platane/snk github action setup" for the exact YAML)
+   c. It will auto-generate the snake SVG referenced above
+4. Swap "tokyonight" theme names for another github-readme-stats
+   theme (e.g. "radical", "dracula", "github_dark") if you want a
+   different color palette — just keep it consistent across widgets.
+============================================================
+-->
